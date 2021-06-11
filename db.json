@@ -1,9 +1,38 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+    "id": 0,
+    "description": "CCNFT-Legendary Kukis-6843",
+    "external_url": "https://chispacoin.com",
+    "image": "https://chispacoin.com/wp-content/uploads/2020/11/wookie-300x300.jpg",
+    "name": "Wooking"
+  },
+  {
+    "id": 1,
+    "description": "CCNFT-Legendary Kukis-8443",
+    "external_url": "https://chispacoin.com",
+	"image": "https://ibb.co/372YGQ6",
+    "name": "Pavel"
+  },
+    "id": 2,
+    "description": "CCNFT-Legendary Kukis-17046",
+    "external_url": "https://chispacoin.com",
+    "image": "https://ibb.co/N39vgBX",
+    "name": "Akainu"
+  },
+    "id": 3,
+    "description": "CCNFT-Legendary Kukis-4538",
+    "external_url": "https://chispacoin.com",
+    "image": "https://ibb.co/41sc1Px",
+    "name": "MikeWard"
+  },
+  {
+    "id": 4,
+    "description": "CCNFT-Legendary Kukis-24009",
+    "external_url": "https://chispacoin.com",
+    "image": "https://ibb.co/hXKchPG",
+    "name": "Eneko"
+  }
   ],
   "profile": {
     "name": "typicode"
